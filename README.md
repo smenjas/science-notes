@@ -15,6 +15,7 @@ Mathematics includes the study of:
 - [PBS Infinite Series](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g)
 - [standupmaths](https://www.youtube.com/user/standupmaths)
 - [Tipping Point Math](https://www.youtube.com/user/TippingPointMath)
+- [Euler's Identity](https://www.youtube.com/watch?v=sKtloBAuP74)
 
 ## License
 Released as open source software under the terms of the [ISC License](https://en.wikipedia.org/wiki/ISC_license).
