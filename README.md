@@ -1,4 +1,21 @@
 # [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
+
+- [Overview](#overview)
+- [Videos](#videos)
+- [Areas of Study](#areas-of-study)
+  - [Algebra](#algebra)
+  - [Geometry](#geometry)
+  - [Mathematical analysis](#mathematical-analysis)
+  - [Number theory](#number-theory)
+- [Glossary](#glossary)
+  - [Algebraic structures](#algebraic-structures)
+    - [Simple structures: no binary operation](#simple-structures-no-binary-operation)
+  - [Number](#number)
+- [License](#license)
+
+---
+
+## Overview
 - [History of mathematics](https://en.wikipedia.org/wiki/History_of_mathematics)
 - [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation)
 
@@ -8,7 +25,7 @@ Mathematics includes the study of:
 - [space](https://en.wikipedia.org/wiki/Space): [geometry](https://en.wikipedia.org/wiki/Geometry)
 - [change](https://en.wikipedia.org/wiki/Calculus): [mathematical analysis](https://en.wikipedia.org/wiki/Mathematical_analysis)
 
-## YouTube
+## Videos
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
 - [Numberphile](https://www.youtube.com/user/numberphile)
@@ -58,7 +75,7 @@ Mathematics includes the study of:
 - [Tuple](https://en.wikipedia.org/wiki/Tuple): a finite ordered list of elements
 - [Vector](https://en.wikipedia.org/wiki/Vector_%28mathematics_and_physics%29): an element of a vector space
 
-### [Algebraic structure](https://en.wikipedia.org/wiki/Algebraic_structure)
+### [Algebraic structures](https://en.wikipedia.org/wiki/Algebraic_structure)
 - [Class](https://en.wikipedia.org/wiki/Class_%28set_theory%29)
 - [Group](https://en.wikipedia.org/wiki/Group_%28mathematics%29)
   - [Field](https://en.wikipedia.org/wiki/Field_%28mathematics%29)
