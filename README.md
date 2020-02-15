@@ -2,6 +2,7 @@
 
 - [Biology](biology.md)
 - [Chemistry](chemistry.md)
+- [Linguistics](linguistics.md)
 - [Materials science](materials-science.md)
 - [Mathematics](mathematics.md)
 - [Physics](physics.md)
