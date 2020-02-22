@@ -1,6 +1,7 @@
 # [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
 
 - [Overview](#overview)
+- [Digital Mathematics Representation](#digital-mathematics-representation)
 - [Videos](#videos)
 - [Areas of Study](#areas-of-study)
   - [Algebra](#algebra)
@@ -24,6 +25,11 @@ Mathematics includes the study of:
 - [structure](https://en.wikipedia.org/wiki/Mathematical_structure): [algebra](https://en.wikipedia.org/wiki/Algebra)
 - [space](https://en.wikipedia.org/wiki/Space): [geometry](https://en.wikipedia.org/wiki/Geometry)
 - [change](https://en.wikipedia.org/wiki/Calculus): [mathematical analysis](https://en.wikipedia.org/wiki/Mathematical_analysis)
+
+## Digital Mathematics Representation
+- [AsciiMath](http://asciimath.org/)
+- [Math in Markdown](https://github.com/cben/mathdown/wiki/math-in-markdown)
+- [MathJax](https://www.mathjax.org/): Beautiful math in all browsers
 
 ## Videos
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
