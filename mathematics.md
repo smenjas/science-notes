@@ -12,7 +12,6 @@
   - [Algebraic structures](#algebraic-structures)
     - [Simple structures: no binary operation](#simple-structures-no-binary-operation)
   - [Number](#number)
-- [License](#license)
 
 ---
 
@@ -39,6 +38,9 @@ Mathematics includes the study of:
 - [standupmaths](https://www.youtube.com/user/standupmaths)
 - [Tipping Point Math](https://www.youtube.com/user/TippingPointMath)
 - [Euler's Identity](https://www.youtube.com/watch?v=sKtloBAuP74)
+
+## Tutorials
+- [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 
 ## Areas of Study
 
