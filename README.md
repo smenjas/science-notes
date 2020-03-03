@@ -2,6 +2,8 @@
 
 - [Biology](biology.md)
 - [Chemistry](chemistry.md)
+- [Energy](energy.md)
+  - [Electric Battery](electric-battery.md)
 - [Linguistics](linguistics.md)
 - [Materials science](materials-science.md)
 - [Mathematics](mathematics.md)
