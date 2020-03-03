@@ -10,7 +10,7 @@
     - [Lithium polymer battery](https://en.wikipedia.org/wiki/Lithium_polymer_battery)
 
 | Battery type | Cathode | Electrolyte | Anode | [Energy density](https://en.wikipedia.org/wiki/Energy_density) (Wh/L) | [Specific energy](https://en.wikipedia.org/wiki/Specific_energy) (Wh/kg) | [Specific power](https://en.wikipedia.org/wiki/Power-to-weight_ratio) (W/kg) | Rechargeable | Memory | Flammable |
-| ------------ | ------- | ----------- | ----- | -------------- | ------------ | ------ | --------- |
+| - | - | - | - | - | - | - | - | - | - |
 | [Lithium polymer](https://en.wikipedia.org/wiki/Lithium_polymer_battery) | [LiCoO₂](https://en.wikipedia.org/wiki/Lithium_cobalt_oxide) | Polymer gel | Graphite | 250-693 | 100-265 | 250-340 | Yes | No | Yes |
 | [Lithium iron phosphate](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) | [LiFePO₄](https://en.wikipedia.org/wiki/Lithium_iron_phosphate)/C | Polymer gel | Graphite & metal | 325 | 90-160 | 200 | Yes | Yes | Yes |
 
