@@ -4,7 +4,6 @@
 - [Interdisciplinary fields](#interdisciplinary-fields)
 - [Videos](#videos)
 - [Glossary](#glossary)
-- [License](#license)
 
 ---
 

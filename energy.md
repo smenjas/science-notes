@@ -87,6 +87,3 @@
 - [Fuel cell](https://en.wikipedia.org/wiki/Fuel_cell)
 - [Grid energy storage](https://en.wikipedia.org/wiki/Grid_energy_storage)
 - [List of energy storage projects](https://en.wikipedia.org/wiki/List_of_energy_storage_projects)
-
-## License
-Released as open source software under the terms of the [ISC License](https://en.wikipedia.org/wiki/ISC_license).

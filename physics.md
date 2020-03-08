@@ -73,7 +73,9 @@ The [Standard Model](https://en.wikipedia.org/wiki/Standard_model) of particle p
 - [Omega baryon](https://en.wikipedia.org/wiki/Omega_baryon)
 - [Delta baryon](https://en.wikipedia.org/wiki/Delta_baryon)
 
-# YouTube
+# Videos
 - [minutephysics](https://www.youtube.com/user/minutephysics)
 - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
 - [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA)
+- [SciShow](https://www.youtube.com/user/scishow)
+- [SciShow Space](https://www.youtube.com/user/scishowspace)
