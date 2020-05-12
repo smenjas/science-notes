@@ -73,7 +73,10 @@ The [Standard Model](https://en.wikipedia.org/wiki/Standard_model) of particle p
 - [Omega baryon](https://en.wikipedia.org/wiki/Omega_baryon)
 - [Delta baryon](https://en.wikipedia.org/wiki/Delta_baryon)
 
-# Videos
+## Books
+- [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html)
+
+## Videos
 - [minutephysics](https://www.youtube.com/user/minutephysics)
 - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
 - [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA)
