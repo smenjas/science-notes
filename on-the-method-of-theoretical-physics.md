@@ -10,7 +10,7 @@ methods they use, I advise you to stick closely to one principle: don't listen
 to their words, fix your attention on their deeds. To him who is a discoverer
 in this field, the products of his imagination appear so necessary and natural
 that he regards them, and would like to have them regarded by others, not as
-creations of thought but as .given realities.
+creations of thought but as given realities.
 
 These words sound like an invitation to you to walk out of this lecture. You
 will say to yourselves, the fellow's a working physicist himself and ought
@@ -26,7 +26,7 @@ interest to know how one who has spent a lifetime in striving with all his
 might to clear up and rectify its fundamentals looks upon his own branch of
 science. The way in which he regards its past and present may depend too much
 on what he hopes for the future and aims at in the present; hut that is the
-inevitahle fate of anybody who has occupied himself intensively with a world of
+inevitable fate of anybody who has occupied himself intensively with a world of
 ideas. The same thing happens to him as to the historian, who in the same way,
 even though perhaps unconsciously, groups actual events round ideals which he
 has formed for himself on the subject of human society.
@@ -35,12 +35,12 @@ Let us now cast an eye over the development of the theoretical system, paying
 special attention to the relations between the content of the theory and the
 totality of empirical fact. We are concerned with the eternal antithesis
 between the two inseparable components of our knowledge, the empirical and the
-:rational, in our department.
+rational, in our department.
 
-We reverence ancient Greece as the cradle of western science Here for the first
-time the world witnessed the miracle of a log; cal system which proceeded from
-step to step with such precision that every single one of its propositions was
-absolutely indubi· table-I refer to Euclid's geometry. This admirable triumph
+We reverence ancient Greece as the cradle of western science. Here for the
+first time the world witnessed the miracle of a logical system which proceeded
+from step to step with such precision that every single one of its propositions
+was absolutely indubitable—I refer to Euclid's geometry. This admirable triumph
 of reasoning gave the human intellect the necessary confidence in itself for
 its subsequent achievements. If Euclid failed to kindle your youthful
 enthusiasm, then you were not born to be a scientific thinker.
@@ -52,7 +52,7 @@ thinking cannot yield us any knowledge of the empirical world; all knowledge of
 reality starts from experience and ends in it. Propositions arrived at by
 purely logical means are completely empty as regards reality. Because Galileo
 saw this, and particularly because he drummed it into the scientific world, he
-is the father of modern physics-indeed, of modern science altogether.
+is the father of modern physics—indeed, of modern science altogether.
 
 If, then, experience is the alpha and the omega of all our knowledge of
 reality, what is the function of pure reason in science?
@@ -93,44 +93,44 @@ eighteenth and nineteenth centuries. But it is steadily gaining ground from the
 fact that the distance in thought between the fundamental concepts and laws on
 one side and, on the other, the conclusions which have to be brought into
 relation with our experience grows larger and larger, the simpler the logical
-structure becomes-that is to say, the smaller the number of logically
+structure becomes—that is to say, the smaller the number of logically
 independent conceptual elements which are found necessary to support the
 structure.
 
 Newton, the first creator of a comprehensive, workable system of theoretical
 physics, still believed that the basic concepts and laws of his system could be
-derived from experience. This is no doubt the meaning of his saying, hypotheses
-non Jingo.
+derived from experience. This is no doubt the meaning of his saying,
+*hypotheses non fingo*.
 
 Actually the concepts of time and space appeared at that time to present no
 difficulties. The concepts of mass, inertia, and force, and the laws connecting
 them, seemed to be drawn directly from experience. Once this basis is accepted,
 the expression for the force of gravitation appears derivable from experience,
-and it was reasonable to expect tile same in regard to other forces.
+and it was reasonable to expect the same in regard to other forces.
 
 We can indeed see from Newton's formulation of it that the concept of absolute
 space, which comprised that of absolute rest, made him feel uncomfortable; he
-realized that tllere seemed to be no tiling in experience corresponding to this
+realized that there seemed to be nothing in experience corresponding to this
 last concept. He was also not quite comfortable about the introduction of
 forces operating at a distance. But the tremendous practical success of his
-doctrines may well have prevented him and the physicists of tile eighteentll
-and nineteenth centuries from recognizing tile fictitious character of the
+doctrines may well have prevented him and the physicists of the eighteenth and
+nineteenth centuries from recognizing the fictitious character of the
 foundations of his system.
 
-The natural philosophers of those days were, on the contrary, most of tllem
-possessed Witll the idea that the fundamental concepts and postulates of
-physics were not in the logical sense free inventions of the human mind but
-could be deduced from experience by "abstraction"-that is to say, by logical
-means. A clear recognition of the erroneousness of this notion really only came
-with tile general theory of relativity, which showed that one could take
-account of a wider range of empirical facts, and that, too, in a more
-satisfactory and complete malilller, on a foundation quite different from the
-Newtonian. But quite apart from the question of the superiority of one or the
-other, the fictitious character of fundamental principles is perfectly evident
-from the fact that we can point to two essentially different principles, both
-of which correspond with experience to a large extent; this proves at the same
-time that every attempt at a logical deduction of the basic concepts and
-postulates of mechanics from elementary experiences is doomed to failure.
+The natural philosophers of those days were, on the contrary, most of them
+possessed with the idea that the fundamental concepts and postulates of physics
+were not in the logical sense free inventions of the human mind but could be
+deduced from experience by "abstraction"—that is to say, by logical means. A
+clear recognition of the erroneousness of this notion really only came with the
+general theory of relativity, which showed that one could take account of a
+wider range of empirical facts, and that, too, in a more satisfactory and
+complete manner, on a foundation quite different from the Newtonian. But quite
+apart from the question of the superiority of one or the other, the fictitious
+character of fundamental principles is perfectly evident from the fact that we
+can point to two essentially different principles, both of which correspond
+with experience to a large extent; this proves at the same time that every
+attempt at a logical deduction of the basic concepts and postulates of
+mechanics from elementary experiences is doomed to failure.
 
 If, then, it is true that the axiomatic basis of theoretical physics cannot be
 extracted from experience but must be freely invented, can we ever hope to find
@@ -143,28 +143,28 @@ of finding it. Our experience hitherto justifies us in believing that nature is
 the realization of the simplest conceivable mathematical ideas. I am convinced
 that we can discover by means of purely mathematical constructions the concepts
 and the laws connecting them with each other, which furnish the key to the
-understanding of natu· ral phenomena. Experience may suggest the appropriate
+understanding of natural phenomena. Experience may suggest the appropriate
 mathematical concepts, but they most certainly cannot be deduced from it.
 Experience remains, of course, the sole criterion of the physical utility of a
 mathematical construction. But the creative principle resides in mathematics.
 In a certain sense, therefore, I hold it true that pure thought can grasp
-reality, as the ancien ts dreamed.
+reality, as the ancients dreamed.
 
 In order to justify this confidence, I am compelled to make use of a
-mathematical concept. The physical world is repre· sen ted as a
-four·dimensional continuum. If I assume a Riemannian metric in it and ask what
-are the simplest laws which such a metric can satisfy, I arrive at the
-relativistic theory of gravitation in empty space. If in that space I assume a
-vectorfield or an anti-symmetrical tensor-field which can be derived from it,
-and ask what are the simplest laws which such a field can satisfy, I arrive at
-Maxwell's equations for empty space.
+mathematical concept. The physical world is represented as a four-dimensional
+continuum. If I assume a Riemannian metric in it and ask what are the simplest
+laws which such a metric can satisfy, I arrive at the relativistic theory of
+gravitation in empty space. If in that space I assume a vector-field or an
+anti-symmetrical tensor-field which can be derived from it, and ask what are
+the simplest laws which such a field can satisfy, I arrive at Maxwell's
+equations for empty space.
 
 At this point we still lack a theory for those parts of space in which
 electrical charge density does not disappear. De Broglie conjectured the
 existence of a wave field, which served to explain certain quantum properties
 of matter. Dirac found in the spinors field-magnitudes of a new sort, whose
 simplest equations enable one to a large extent to deduce the properties of the
-electron. Subsequently I discovered, in conjunction witl1 my colleague, Dr.
+electron. Subsequently I discovered, in conjunction with my colleague, Dr.
 Walter Mayer, that these spinors form a special case of a new sort of field,
 mathematically connected with the four-dimensional system, which we called
 "semivectors." The simplest equations which such semivectors can satisfy
@@ -190,30 +190,30 @@ element, the material point, in itself does justice to the atomic structure of
 matter.
 
 The modern quantum theory in the form associated with the names of de Broglie,
-Schrodinger, and Dirac, which operates with continuous functions, has overcome
+Schrödinger, and Dirac, which operates with continuous functions, has overcome
 these difficulties by a bold piece of interpretation which was first given a
 clear form by Max Born. According to this, the spatial functions which appear
 in the equations make no claim to be a mathematical model of the atomic
 structure. Those functions are only supposed to determine the mathematical
 probabilities to find such structures, if measurements are taken, at a
 particular spot or in a certain state of motion. This notion is logically
-unobjectionable and has important successes to its credit. Unfortu- nately,
+unobjectionable and has important successes to its credit. Unfortunately,
 however, it compels one to use a continuum the number of whose dimensions is
 not that ascribed to space by physics hitherto (four) but rises indefinitely
 with the number of the particles constituting the system under consideration. I
 cannot but confess that I attach only a transitory importance to this
-interpretation. I still believe in the possibility of a model of reality-that
-is to say, of a theory which represents things them· selves and not merely the
+interpretation. I still believe in the possibility of a model of reality—that
+is to say, of a theory which represents things themselves and not merely the
 probability of their occurrence.
 
 On the other hand, it seems to me certain that we must give up the idea of a
 complete localization of the particles in a theoretical model. This seems to me
 to be the permanent upshot of Heisenberg's principle of uncertainty. But an
 atomic theory in the true sense of the word (not merely on the basis of an
-interpretation) without localization of particles in a mathematical. model is
+interpretation) without localization of particles in a mathematical model is
 perfectly thinkable. For instance, to account for the atomic character of
 electricity, the field equations need only lead to the following conclusions: A
-region of three·dimensional space at whose boundary electrical density vanishes
+region of three-dimensional space at whose boundary electrical density vanishes
 everywhere always contains a total electrical charge whose size is represented
 by a whole number. In a continuum-theory atomic characteristics would be
 satisfactorily expressed by integral laws without localization of the entities
