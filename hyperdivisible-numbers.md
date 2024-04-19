@@ -1,8 +1,8 @@
 # Hyperdivisible Numbers
 
-These 7 numbers have more factors than any lower number, and any number up to their double:
+These 7 numbers have more factors than any lower number, and any number less than their double:
 - 1:    1 (1 factor)
-- 2:    1, 2 (3 factors)
+- 2:    1, 2 (2 factors)
 - 6:    1, 2, 3 (4 factors)
 - 12:   1, 2, 3, 4,    6 (6 factors)
 - 60:   1, 2, 3, 4, 5, 6,          10, 12,     15,     20,             30 (12 factors)
